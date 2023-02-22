@@ -117,4 +117,4 @@ Start the Client
 
 - [@Siddharth-Nair](https://github.com/siddharth-nair-2/)
 - [@Abed-Nassar](https://github.com/abedIronman)
-  -- [@Maria-DeMelo](https://github.com/demelo11)
+- [@Maria-DeMelo](https://github.com/demelo11)
